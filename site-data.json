@@ -15,32 +15,32 @@
   "about": {
     "title": "About Our Firm",
     "content": "Technodeals BD is a multidisciplinary consultancy firm providing integrated, end-to-end solutions. By combining innovative thinking with engineering precision, we transform complex challenges into sustainable successes.",
-    "image": "https://images.unsplash.com/photo-1577998072123-0861d982e9e5?auto=format&fit=crop&w=1600&q=80"
+    "image": "media/about.png"
   },
   "services": [
     {
       "id": "svc_1",
       "title": "Consultancy",
       "desc": "Expert technical and strategic maritime advice.",
-      "image": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?auto=format&fit=crop&w=900&q=80"
+      "image": "media/services1.png"
     },
     {
       "id": "svc_2",
       "title": "Engineering Solutions",
       "desc": "Precision design and structural analysis.",
-      "image": "https://images.unsplash.com/photo-1568515387631-8b650bbcdb90?auto=format&fit=crop&w=900&q=80"
+      "image": "media/services2.png"
     },
     {
       "id": "svc_3",
       "title": "Material Supply",
       "desc": "High-quality industrial and maritime procurement.",
-      "image": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?auto=format&fit=crop&w=900&q=80"
+      "image": "media/services3.png"
     },
     {
       "id": "svc_4",
       "title": "IT Support",
       "desc": "Integrated digital infrastructure for industry.",
-      "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc51?auto=format&fit=crop&w=900&q=80"
+      "image": "media/services4.png"
     }
   ],
   "products": [
@@ -214,7 +214,7 @@
       "desc": "Concept design, stability analysis, and class approval for a DP-2 offshore support vessel operating in harsh environments.",
       "type": "Offshore",
       "year": "2024",
-      "image": "https://images.unsplash.com/photo-1504609813442-a8924e83f76e?auto=format&fit=crop&w=1200&q=80"
+      "image": "media/projects1.png"
     },
     {
       "id": "prj_2",
@@ -222,7 +222,7 @@
       "desc": "Hydrodynamic optimization and resistance analysis resulting in a 12% reduction in fuel consumption.",
       "type": "Passenger",
       "year": "2023",
-      "image": "https://images.unsplash.com/photo-1518391846015-55a9cc003b25?auto=format&fit=crop&w=1200&q=80"
+      "image": "media/projects2.png"
     },
     {
       "id": "prj_3",
@@ -230,7 +230,7 @@
       "desc": "Full design package including intact/damage stability, class drawings, and flag-state approval.",
       "type": "Workboat",
       "year": "2022",
-      "image": "https://images.unsplash.com/photo-1544551763-cedeca3450d5?auto=format&fit=crop&w=1200&q=80"
+      "image": "media/projects3.png"
     }
   ]
 }
